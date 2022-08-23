@@ -77,3 +77,7 @@
 .icon-streamline-umbrella-weather:before {
   content: "k";
 }
+.menu-service{display: table-row-group;width: 100%;}
+.menu-service .title-small{display: table-row;width: 100%;}
+.menu-service .title-small .service{display: table-cell;width: 100%;}
+.menu-service .title-small .service div{width: 40px;}
